@@ -1,1 +1,1 @@
-# Just project for learn git
+# Lab3 - CI/CD Practice
